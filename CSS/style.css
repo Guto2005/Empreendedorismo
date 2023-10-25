@@ -1,0 +1,37 @@
+h1{color: rgb(0, 26, 255)}
+    img{width: auto;
+        height: auto;
+    }
+    body{color:rgb(243, 2, 2);
+        background-image: url(./../IMG/pexels-anna-shvets-5325074.jpg);
+        background-size: cover;
+        padding-left: 0px;
+    }
+    a{color:rgb(80, 231, 80)};
+    .menu{
+        display:flex;
+        max-width: 992px;
+        min-width: 320px;
+        margin: auto;
+        padding: 20px;
+    }
+
+    main{
+        width: 50%;
+        margin:auto;
+        background-color: rgba(255,255,255,0.1);
+        padding: 20px;
+    }
+
+    header{
+        width:50%;
+        margin:auto;
+        padding: 20px;
+        background-color: black;
+    }
+    footer{
+        width:50%;
+        margin:auto;
+        padding: 20px;
+        background-color: black;
+    }
